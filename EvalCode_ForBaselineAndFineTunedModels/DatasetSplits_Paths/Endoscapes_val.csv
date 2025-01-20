@@ -1,0 +1,300 @@
+mask,frame,class_name,dataset
+Endoscapes/val/Masks/Cystic Artery/126_11550.png,Endoscapes/val/Frames/126_11550.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/126_12300.png,Endoscapes/val/Frames/126_12300.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/126_13050.png,Endoscapes/val/Frames/126_13050.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/126_13800.png,Endoscapes/val/Frames/126_13800.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/131_40375.png,Endoscapes/val/Frames/131_40375.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/131_41125.png,Endoscapes/val/Frames/131_41125.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/131_41875.png,Endoscapes/val/Frames/131_41875.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/131_42625.png,Endoscapes/val/Frames/131_42625.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/131_47125.png,Endoscapes/val/Frames/131_47125.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/131_47875.png,Endoscapes/val/Frames/131_47875.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/131_48625.png,Endoscapes/val/Frames/131_48625.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/137_7125.png,Endoscapes/val/Frames/137_7125.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/137_7875.png,Endoscapes/val/Frames/137_7875.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/141_39075.png,Endoscapes/val/Frames/141_39075.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/141_39825.png,Endoscapes/val/Frames/141_39825.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/141_40575.png,Endoscapes/val/Frames/141_40575.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/141_41325.png,Endoscapes/val/Frames/141_41325.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/142_28750.png,Endoscapes/val/Frames/142_28750.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/142_29500.png,Endoscapes/val/Frames/142_29500.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/142_31750.png,Endoscapes/val/Frames/142_31750.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/142_34750.png,Endoscapes/val/Frames/142_34750.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/142_35500.png,Endoscapes/val/Frames/142_35500.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/142_36250.png,Endoscapes/val/Frames/142_36250.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/142_37000.png,Endoscapes/val/Frames/142_37000.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/144_16425.png,Endoscapes/val/Frames/144_16425.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/144_17175.png,Endoscapes/val/Frames/144_17175.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/156_43575.png,Endoscapes/val/Frames/156_43575.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/156_44325.png,Endoscapes/val/Frames/156_44325.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/159_56300.png,Endoscapes/val/Frames/159_56300.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/159_57050.png,Endoscapes/val/Frames/159_57050.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/159_58550.png,Endoscapes/val/Frames/159_58550.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/159_59300.png,Endoscapes/val/Frames/159_59300.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/159_60050.png,Endoscapes/val/Frames/159_60050.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Artery/159_60800.png,Endoscapes/val/Frames/159_60800.jpg,Cystic Artery,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/126_11550.png,Endoscapes/val/Frames/126_11550.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/126_12300.png,Endoscapes/val/Frames/126_12300.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/126_13050.png,Endoscapes/val/Frames/126_13050.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/126_13800.png,Endoscapes/val/Frames/126_13800.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_40375.png,Endoscapes/val/Frames/131_40375.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_41125.png,Endoscapes/val/Frames/131_41125.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_41875.png,Endoscapes/val/Frames/131_41875.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_42625.png,Endoscapes/val/Frames/131_42625.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_44125.png,Endoscapes/val/Frames/131_44125.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_44875.png,Endoscapes/val/Frames/131_44875.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_45625.png,Endoscapes/val/Frames/131_45625.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_46375.png,Endoscapes/val/Frames/131_46375.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_47125.png,Endoscapes/val/Frames/131_47125.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_47875.png,Endoscapes/val/Frames/131_47875.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_48625.png,Endoscapes/val/Frames/131_48625.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_50125.png,Endoscapes/val/Frames/131_50125.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_50875.png,Endoscapes/val/Frames/131_50875.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_51625.png,Endoscapes/val/Frames/131_51625.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_52375.png,Endoscapes/val/Frames/131_52375.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_53125.png,Endoscapes/val/Frames/131_53125.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/131_53875.png,Endoscapes/val/Frames/131_53875.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/137_7125.png,Endoscapes/val/Frames/137_7125.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/137_7875.png,Endoscapes/val/Frames/137_7875.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/141_39075.png,Endoscapes/val/Frames/141_39075.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/141_39825.png,Endoscapes/val/Frames/141_39825.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/141_40575.png,Endoscapes/val/Frames/141_40575.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/141_41325.png,Endoscapes/val/Frames/141_41325.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_28750.png,Endoscapes/val/Frames/142_28750.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_29500.png,Endoscapes/val/Frames/142_29500.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_30250.png,Endoscapes/val/Frames/142_30250.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_31000.png,Endoscapes/val/Frames/142_31000.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_31750.png,Endoscapes/val/Frames/142_31750.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_32500.png,Endoscapes/val/Frames/142_32500.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_33250.png,Endoscapes/val/Frames/142_33250.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_34000.png,Endoscapes/val/Frames/142_34000.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_34750.png,Endoscapes/val/Frames/142_34750.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_35500.png,Endoscapes/val/Frames/142_35500.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_36250.png,Endoscapes/val/Frames/142_36250.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/142_37000.png,Endoscapes/val/Frames/142_37000.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/144_16425.png,Endoscapes/val/Frames/144_16425.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/144_17175.png,Endoscapes/val/Frames/144_17175.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/146_12525.png,Endoscapes/val/Frames/146_12525.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/146_13275.png,Endoscapes/val/Frames/146_13275.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_18450.png,Endoscapes/val/Frames/153_18450.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_19200.png,Endoscapes/val/Frames/153_19200.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_19950.png,Endoscapes/val/Frames/153_19950.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_22200.png,Endoscapes/val/Frames/153_22200.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_22950.png,Endoscapes/val/Frames/153_22950.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_25950.png,Endoscapes/val/Frames/153_25950.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_26700.png,Endoscapes/val/Frames/153_26700.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_27450.png,Endoscapes/val/Frames/153_27450.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_28950.png,Endoscapes/val/Frames/153_28950.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_29700.png,Endoscapes/val/Frames/153_29700.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_30450.png,Endoscapes/val/Frames/153_30450.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_31200.png,Endoscapes/val/Frames/153_31200.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_32700.png,Endoscapes/val/Frames/153_32700.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/153_33450.png,Endoscapes/val/Frames/153_33450.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/156_43575.png,Endoscapes/val/Frames/156_43575.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/156_44325.png,Endoscapes/val/Frames/156_44325.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/159_55550.png,Endoscapes/val/Frames/159_55550.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/159_56300.png,Endoscapes/val/Frames/159_56300.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/159_57050.png,Endoscapes/val/Frames/159_57050.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/159_59300.png,Endoscapes/val/Frames/159_59300.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/159_60050.png,Endoscapes/val/Frames/159_60050.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Duct/159_60800.png,Endoscapes/val/Frames/159_60800.jpg,Cystic Duct,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_41125.png,Endoscapes/val/Frames/131_41125.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_41875.png,Endoscapes/val/Frames/131_41875.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_43375.png,Endoscapes/val/Frames/131_43375.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_44125.png,Endoscapes/val/Frames/131_44125.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_44875.png,Endoscapes/val/Frames/131_44875.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_45625.png,Endoscapes/val/Frames/131_45625.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_46375.png,Endoscapes/val/Frames/131_46375.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_47125.png,Endoscapes/val/Frames/131_47125.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_47875.png,Endoscapes/val/Frames/131_47875.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_48625.png,Endoscapes/val/Frames/131_48625.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_50875.png,Endoscapes/val/Frames/131_50875.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_52375.png,Endoscapes/val/Frames/131_52375.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/131_53875.png,Endoscapes/val/Frames/131_53875.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/144_17175.png,Endoscapes/val/Frames/144_17175.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/146_12525.png,Endoscapes/val/Frames/146_12525.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/146_13275.png,Endoscapes/val/Frames/146_13275.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/153_28950.png,Endoscapes/val/Frames/153_28950.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/153_29700.png,Endoscapes/val/Frames/153_29700.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/153_30450.png,Endoscapes/val/Frames/153_30450.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/153_31200.png,Endoscapes/val/Frames/153_31200.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/153_32700.png,Endoscapes/val/Frames/153_32700.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/153_33450.png,Endoscapes/val/Frames/153_33450.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/156_44325.png,Endoscapes/val/Frames/156_44325.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/159_56300.png,Endoscapes/val/Frames/159_56300.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/159_57050.png,Endoscapes/val/Frames/159_57050.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/159_58550.png,Endoscapes/val/Frames/159_58550.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/159_59300.png,Endoscapes/val/Frames/159_59300.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/159_60050.png,Endoscapes/val/Frames/159_60050.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Cystic Plate/159_60800.png,Endoscapes/val/Frames/159_60800.jpg,Cystic Plate,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/126_11550.png,Endoscapes/val/Frames/126_11550.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/126_12300.png,Endoscapes/val/Frames/126_12300.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/126_13050.png,Endoscapes/val/Frames/126_13050.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/126_13800.png,Endoscapes/val/Frames/126_13800.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_40375.png,Endoscapes/val/Frames/131_40375.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_41125.png,Endoscapes/val/Frames/131_41125.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_41875.png,Endoscapes/val/Frames/131_41875.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_42625.png,Endoscapes/val/Frames/131_42625.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_43375.png,Endoscapes/val/Frames/131_43375.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_44125.png,Endoscapes/val/Frames/131_44125.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_44875.png,Endoscapes/val/Frames/131_44875.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_45625.png,Endoscapes/val/Frames/131_45625.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_46375.png,Endoscapes/val/Frames/131_46375.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_47125.png,Endoscapes/val/Frames/131_47125.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_47875.png,Endoscapes/val/Frames/131_47875.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_48625.png,Endoscapes/val/Frames/131_48625.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_49375.png,Endoscapes/val/Frames/131_49375.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_50125.png,Endoscapes/val/Frames/131_50125.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_50875.png,Endoscapes/val/Frames/131_50875.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_51625.png,Endoscapes/val/Frames/131_51625.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_52375.png,Endoscapes/val/Frames/131_52375.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_53125.png,Endoscapes/val/Frames/131_53125.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/131_53875.png,Endoscapes/val/Frames/131_53875.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/137_7125.png,Endoscapes/val/Frames/137_7125.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/137_7875.png,Endoscapes/val/Frames/137_7875.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/141_39075.png,Endoscapes/val/Frames/141_39075.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/141_39825.png,Endoscapes/val/Frames/141_39825.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/141_40575.png,Endoscapes/val/Frames/141_40575.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/141_41325.png,Endoscapes/val/Frames/141_41325.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_28750.png,Endoscapes/val/Frames/142_28750.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_29500.png,Endoscapes/val/Frames/142_29500.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_30250.png,Endoscapes/val/Frames/142_30250.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_31000.png,Endoscapes/val/Frames/142_31000.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_31750.png,Endoscapes/val/Frames/142_31750.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_32500.png,Endoscapes/val/Frames/142_32500.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_33250.png,Endoscapes/val/Frames/142_33250.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_34000.png,Endoscapes/val/Frames/142_34000.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_34750.png,Endoscapes/val/Frames/142_34750.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_35500.png,Endoscapes/val/Frames/142_35500.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_36250.png,Endoscapes/val/Frames/142_36250.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/142_37000.png,Endoscapes/val/Frames/142_37000.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/144_16425.png,Endoscapes/val/Frames/144_16425.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/144_17175.png,Endoscapes/val/Frames/144_17175.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/146_12525.png,Endoscapes/val/Frames/146_12525.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/146_13275.png,Endoscapes/val/Frames/146_13275.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_18450.png,Endoscapes/val/Frames/153_18450.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_19200.png,Endoscapes/val/Frames/153_19200.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_19950.png,Endoscapes/val/Frames/153_19950.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_22200.png,Endoscapes/val/Frames/153_22200.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_22950.png,Endoscapes/val/Frames/153_22950.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_23700.png,Endoscapes/val/Frames/153_23700.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_24450.png,Endoscapes/val/Frames/153_24450.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_25200.png,Endoscapes/val/Frames/153_25200.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_25950.png,Endoscapes/val/Frames/153_25950.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_26700.png,Endoscapes/val/Frames/153_26700.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_27450.png,Endoscapes/val/Frames/153_27450.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_28200.png,Endoscapes/val/Frames/153_28200.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_28950.png,Endoscapes/val/Frames/153_28950.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_29700.png,Endoscapes/val/Frames/153_29700.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_30450.png,Endoscapes/val/Frames/153_30450.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_31200.png,Endoscapes/val/Frames/153_31200.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_31950.png,Endoscapes/val/Frames/153_31950.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/153_33450.png,Endoscapes/val/Frames/153_33450.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/156_43575.png,Endoscapes/val/Frames/156_43575.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/156_44325.png,Endoscapes/val/Frames/156_44325.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_55550.png,Endoscapes/val/Frames/159_55550.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_56300.png,Endoscapes/val/Frames/159_56300.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_57050.png,Endoscapes/val/Frames/159_57050.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_57800.png,Endoscapes/val/Frames/159_57800.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_58550.png,Endoscapes/val/Frames/159_58550.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_59300.png,Endoscapes/val/Frames/159_59300.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_60050.png,Endoscapes/val/Frames/159_60050.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Gall Bladder/159_60800.png,Endoscapes/val/Frames/159_60800.jpg,Gall Bladder,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/126_11550.png,Endoscapes/val/Frames/126_11550.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/126_12300.png,Endoscapes/val/Frames/126_12300.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/126_13050.png,Endoscapes/val/Frames/126_13050.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/126_13800.png,Endoscapes/val/Frames/126_13800.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/131_41125.png,Endoscapes/val/Frames/131_41125.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/131_47125.png,Endoscapes/val/Frames/131_47125.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/131_47875.png,Endoscapes/val/Frames/131_47875.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/141_39075.png,Endoscapes/val/Frames/141_39075.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/142_34750.png,Endoscapes/val/Frames/142_34750.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/142_35500.png,Endoscapes/val/Frames/142_35500.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/144_16425.png,Endoscapes/val/Frames/144_16425.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/144_17175.png,Endoscapes/val/Frames/144_17175.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/146_12525.png,Endoscapes/val/Frames/146_12525.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/146_13275.png,Endoscapes/val/Frames/146_13275.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_18450.png,Endoscapes/val/Frames/153_18450.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_19200.png,Endoscapes/val/Frames/153_19200.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_26700.png,Endoscapes/val/Frames/153_26700.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_27450.png,Endoscapes/val/Frames/153_27450.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_28950.png,Endoscapes/val/Frames/153_28950.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_29700.png,Endoscapes/val/Frames/153_29700.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_30450.png,Endoscapes/val/Frames/153_30450.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/153_31200.png,Endoscapes/val/Frames/153_31200.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/156_43575.png,Endoscapes/val/Frames/156_43575.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/156_44325.png,Endoscapes/val/Frames/156_44325.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Hepatocystic triangle/159_60800.png,Endoscapes/val/Frames/159_60800.jpg,Hepatocystic triangle,Endoscapes
+Endoscapes/val/Masks/Instruments/126_11550.png,Endoscapes/val/Frames/126_11550.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/126_12300.png,Endoscapes/val/Frames/126_12300.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/126_13050.png,Endoscapes/val/Frames/126_13050.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/126_13800.png,Endoscapes/val/Frames/126_13800.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_40375.png,Endoscapes/val/Frames/131_40375.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_41125.png,Endoscapes/val/Frames/131_41125.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_41875.png,Endoscapes/val/Frames/131_41875.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_43375.png,Endoscapes/val/Frames/131_43375.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_44125.png,Endoscapes/val/Frames/131_44125.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_44875.png,Endoscapes/val/Frames/131_44875.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_45625.png,Endoscapes/val/Frames/131_45625.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_46375.png,Endoscapes/val/Frames/131_46375.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_47125.png,Endoscapes/val/Frames/131_47125.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_47875.png,Endoscapes/val/Frames/131_47875.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_48625.png,Endoscapes/val/Frames/131_48625.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_49375.png,Endoscapes/val/Frames/131_49375.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_50125.png,Endoscapes/val/Frames/131_50125.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_50875.png,Endoscapes/val/Frames/131_50875.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_51625.png,Endoscapes/val/Frames/131_51625.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_52375.png,Endoscapes/val/Frames/131_52375.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_53125.png,Endoscapes/val/Frames/131_53125.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/131_53875.png,Endoscapes/val/Frames/131_53875.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/137_7125.png,Endoscapes/val/Frames/137_7125.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/137_7875.png,Endoscapes/val/Frames/137_7875.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/141_39075.png,Endoscapes/val/Frames/141_39075.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/141_39825.png,Endoscapes/val/Frames/141_39825.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/141_40575.png,Endoscapes/val/Frames/141_40575.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/141_41325.png,Endoscapes/val/Frames/141_41325.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_28750.png,Endoscapes/val/Frames/142_28750.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_29500.png,Endoscapes/val/Frames/142_29500.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_30250.png,Endoscapes/val/Frames/142_30250.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_31000.png,Endoscapes/val/Frames/142_31000.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_31750.png,Endoscapes/val/Frames/142_31750.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_32500.png,Endoscapes/val/Frames/142_32500.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_33250.png,Endoscapes/val/Frames/142_33250.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_34000.png,Endoscapes/val/Frames/142_34000.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_34750.png,Endoscapes/val/Frames/142_34750.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_35500.png,Endoscapes/val/Frames/142_35500.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_36250.png,Endoscapes/val/Frames/142_36250.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/142_37000.png,Endoscapes/val/Frames/142_37000.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/144_16425.png,Endoscapes/val/Frames/144_16425.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/144_17175.png,Endoscapes/val/Frames/144_17175.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/146_12525.png,Endoscapes/val/Frames/146_12525.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/146_13275.png,Endoscapes/val/Frames/146_13275.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_18450.png,Endoscapes/val/Frames/153_18450.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_19200.png,Endoscapes/val/Frames/153_19200.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_19950.png,Endoscapes/val/Frames/153_19950.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_22200.png,Endoscapes/val/Frames/153_22200.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_22950.png,Endoscapes/val/Frames/153_22950.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_23700.png,Endoscapes/val/Frames/153_23700.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_24450.png,Endoscapes/val/Frames/153_24450.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_25200.png,Endoscapes/val/Frames/153_25200.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_25950.png,Endoscapes/val/Frames/153_25950.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_26700.png,Endoscapes/val/Frames/153_26700.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_27450.png,Endoscapes/val/Frames/153_27450.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_28200.png,Endoscapes/val/Frames/153_28200.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_28950.png,Endoscapes/val/Frames/153_28950.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_29700.png,Endoscapes/val/Frames/153_29700.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_30450.png,Endoscapes/val/Frames/153_30450.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_31200.png,Endoscapes/val/Frames/153_31200.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_31950.png,Endoscapes/val/Frames/153_31950.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_32700.png,Endoscapes/val/Frames/153_32700.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/153_33450.png,Endoscapes/val/Frames/153_33450.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/156_43575.png,Endoscapes/val/Frames/156_43575.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/156_44325.png,Endoscapes/val/Frames/156_44325.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_55550.png,Endoscapes/val/Frames/159_55550.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_56300.png,Endoscapes/val/Frames/159_56300.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_57050.png,Endoscapes/val/Frames/159_57050.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_57800.png,Endoscapes/val/Frames/159_57800.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_58550.png,Endoscapes/val/Frames/159_58550.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_59300.png,Endoscapes/val/Frames/159_59300.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_60050.png,Endoscapes/val/Frames/159_60050.jpg,Instruments,Endoscapes
+Endoscapes/val/Masks/Instruments/159_60800.png,Endoscapes/val/Frames/159_60800.jpg,Instruments,Endoscapes
