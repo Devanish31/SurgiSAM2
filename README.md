@@ -27,6 +27,13 @@ The following surgical video/image datasets were used:
 The fine-tuned SurgiSAM2 model checkpoints are available at:
 [https://figshare.com/articles/media/SurgiSAM2_Fine-tuning_a_foundational_model_for_surgical_video_anatomy_segmentation_and_detection/28489961](https://figshare.com/articles/media/SurgiSAM2_Fine-tuning_a_foundational_model_for_surgical_video_anatomy_segmentation_and_detection/28489961)
 
+## License
+The code in this repository is licensed under the Apache License 2.0 (see LICENSE).
+
+SurgiSAM2 is built on SAM 2 (https://github.com/facebookresearch/sam2),
+Copyright (c) Meta Platforms, Inc. and affiliates, licensed under Apache 2.0.
+The fine-tuned checkpoints on Figshare are derived from SAM 2 weights.
+
 ## Citation
 If you use SurgiSAM2 in your research, please cite our paper published in Scientific Reports:
 
