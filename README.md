@@ -34,6 +34,8 @@ SurgiSAM2 is built on SAM 2 (https://github.com/facebookresearch/sam2),
 Copyright (c) Meta Platforms, Inc. and affiliates, licensed under Apache 2.0.
 The fine-tuned checkpoints on Figshare are derived from SAM 2 weights.
 
+The fine-tuned checkpoints were trained on third-party datasets, each subject to its own license: CholecSeg8k (CC BY-NC-SA 4.0), Endoscapes (CC BY-NC-SA 4.0), m2caiSeg (CC BY-NC 4.0), Dresden Surgical Anatomy Dataset (CC BY 4.0), and UreterUD (IEEE DataPort terms of use). Because several of these datasets restrict commercial use, commercial use of these checkpoints may be restricted. Users are responsible for complying with the terms of each dataset.
+
 ## Citation
 If you use SurgiSAM2 in your research, please cite our paper published in Scientific Reports:
 
